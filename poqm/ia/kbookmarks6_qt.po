@@ -3371,7 +3371,7 @@ msgstr "Crea un nove dossier de marcator de libro in iste menu"
 #~ "protocollo ha reportate un error interne."
 
 #~ msgid "Improperly Formatted URL"
-#~ msgstr "URL Formattate de modo Improprie"
+#~ msgstr "URL Fnormatate de modo Improprie"
 
 #~ msgid ""
 #~ "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
